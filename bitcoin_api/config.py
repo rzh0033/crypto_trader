@@ -1,0 +1,3 @@
+#apikey.py
+
+COINMARKETCAP_API_KEY = '284a14d3-cd3a-4d77-852b-501b0a76ef94'
